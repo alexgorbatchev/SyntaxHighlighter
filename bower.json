@@ -1,7 +1,7 @@
 {
   "name": "SyntaxHighlighter",
   "version": "3.0.9",
-  "main": "./scripts/shCore.js",
+  "main": "./src/js/shCore.js",
   "author": "Alex Gorbatchev <alex.gorbatchev@gmail.com> (http://alexgorbatchev.com)",
   "licenses": [
     {
